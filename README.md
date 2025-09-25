@@ -48,7 +48,7 @@ Model Waveform
 <img width="703" height="679" alt="image" src="https://github.com/user-attachments/assets/e7c7c7f8-ccf2-41ac-b1f3-325989941a6f" />
 
 Program
-
+```
 Am=6.7;
 fm=407;
 Ac=13.4;
@@ -66,7 +66,7 @@ s2=(Ac-m).*cos(2*3.14*fc*t);
 s=s1-s2;
 subplot(3,1,3);
 plot(t,s);
-
+```
 
 
 
