@@ -49,9 +49,9 @@ Model Waveform
 
 Program
 ```
-Am=6.7;
+Am=4.7;
 fm=407;
-Ac=13.4;
+Ac=9.4;
 fc=4070;
 fs=40700;
 t=0:1/fs:2/fm;
